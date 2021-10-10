@@ -32,7 +32,7 @@ class _DiceWidgetState extends State<DiceWidget> {
   List<String> listOfQuestion = [
     'What is your name?',
     'How old are?',
-    'Where Where Where Where Where Where Where Where Where Where Where Where are you from?',
+    'Where are you from?',
   ];
 
   int _randomNumber = 0;
